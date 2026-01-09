@@ -1,7 +1,7 @@
 // --- Konfigurasi Blynk ---
-#define BLYNK_TEMPLATE_ID   "TMPL6R4TkcaUh"
+#define BLYNK_TEMPLATE_ID   "------------------------"
 #define BLYNK_TEMPLATE_NAME "Jemuran Otomatis"
-#define BLYNK_AUTH_TOKEN    "Zy3NyFoA-BBz2bDUumIN6YqCpjdB7P_l"
+#define BLYNK_AUTH_TOKEN    "-------------------------"
 
 #include <WiFi.h>
 #include <WiFiClient.h>
@@ -11,8 +11,8 @@
 #include <EEPROM.h>
 
 // --- Data WiFi ---
-char ssid[] = "ltsc";
-char pass[] = "tolol123";
+char ssid[] = "-----------";
+char pass[] = "-----------";
 
 // --- Pin Perangkat ---
 #define PIN_MOTOR_IN1 13
